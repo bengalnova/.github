@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../logo-output/full/solar-node-full-1024.png" alt="BengalNode Logo" width="480">
+  <img src="https://raw.githubusercontent.com/bengalnode/.github/master/logo-output/full/solar-node-full-1024.png" alt="BengalNode Logo" width="480">
 </p>
 
 <h1 align="center">BengalNode</h1>
