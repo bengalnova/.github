@@ -1,0 +1,10 @@
+.DS_Store
+.ini
+.exe
+
+node_modules/
+dist/
+build/
+*.bak*
+
+

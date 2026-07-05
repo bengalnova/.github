@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" width="720" height="200">
+  <g transform="translate(100, 100)">
+    <circle cx="0" cy="0" r="72" fill="#006A4E"/>
+    <circle cx="-16" cy="-8" r="32" fill="#F42A41"/>
+    <circle cx="-16" cy="-8" r="11" fill="#FFFFFF"/>
+  </g>
+  <text x="200" y="112" font-family="Space Grotesk, system-ui, sans-serif" font-size="66" font-weight="700" fill="#111827" letter-spacing="-1.5">BengalNode</text>
+</svg>
