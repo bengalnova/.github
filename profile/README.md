@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bengalnode/.github/master/logo-output/full/solar-node-full-1024.png" alt="BengalNode Logo" width="480">
+  <img src="https://raw.githubusercontent.com/bengalnode/.github/master/logo-output/full/solar-node-full-1024.png" alt="BengalNova Logo" width="480">
 </p>
 
-<h1 align="center">BengalNode</h1>
+<h1 align="center">BengalNova</h1>
 
 <p align="center">
   <strong>Building Software & IT Products from Bangladesh</strong>
